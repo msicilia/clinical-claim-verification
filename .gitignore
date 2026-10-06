@@ -1,0 +1,6 @@
+# downloaded and generated data, model caches and results are not versioned
+data/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
